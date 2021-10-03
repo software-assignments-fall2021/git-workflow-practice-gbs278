@@ -1,5 +1,7 @@
 # Solidity Intro!
-Read this intro to solicity (https://www.makeuseof.com/what-is-solidity/)!
+Read this [Intro to Solidity](https://www.makeuseof.com/what-is-solidity/)!
+
+
 This article starts off by talking about solidity's connection and use in blockchains (such as the ethereum blockchain) and solidity's similarity to javascript. 
 Essentially, solidity helps uses create smart contracts for anyone to use! 
 This article caught my attention because it helps readers understand the future and development of blockchain technology. 
