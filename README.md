@@ -10,3 +10,5 @@ However, there are no barriers to entry -- so anyone can pick up on this pretty 
 
 
 Comment from Zach Waxman: Very interesting Gal, thank you for sharing! 
+
+Comment from Lianne Yaacoby: Super interesting, love a good Blockchain article!!
